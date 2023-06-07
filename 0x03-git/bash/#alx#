@@ -1,1 +1,4 @@
- #!bin/blash 
+  
+ #!/bin/bash 
+ echo "ALX" 
+ 
